@@ -8,7 +8,7 @@ var app = express();
 app.use(cors());
 
 
-var api= require('./RIYA-AI/connect.route');
+var api= require('./connect.route');
 
 
 
